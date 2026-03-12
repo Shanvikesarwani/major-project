@@ -22,7 +22,7 @@ await Listing.deleteMany({});
 
 const data = initData.map((obj)=>({
 ...obj,
-owner:"69824650aeb55d9c0ecda0a8"
+owner:"69b286939251f13eac8edcf2"
 }));
 
 await Listing.insertMany(data);
