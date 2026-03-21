@@ -120,14 +120,13 @@ This will insert multiple travel listings into MongoDB.
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./home.png)
+![Home Page](./screenshots/home.png)
 
 ### 📍 Listings
-![Listing Page](./listing.png)
+![Listing Page](./screenshots/listing.png)
 
 ## 🌟 Future Improvements
 
-* User reviews and ratings
 * Booking system
 * Search functionality
 * Payment integration
