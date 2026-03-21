@@ -233,7 +233,7 @@ geometry:{type:"Point",coordinates:[78.4867,17.3850]}
 {
 title:"Kerala Backwater Villa",
 description:"Peaceful villa with water view.",
-image:{filename:"listingimage",url:"https://images.unsplash.com/photo-1526779259212-756e6f40d7a3"},
+image:{filename:"listingimage",url:"https://images.unsplash.com/photo-1507525428034-b723cf961d3e"},
 price:3400,
 location:"Kerala",
 country:"India",
@@ -299,7 +299,7 @@ geometry:{type:"Point",coordinates:[79.4542,29.3919]}
 {
 title:"Alleppey Luxury Houseboat",
 description:"Private houseboat with chef.",
-image:{filename:"listingimage",url:"https://images.unsplash.com/photo-1526779259212-756e6f40d7a3"},
+image:{filename:"listingimage",url:"https://images.unsplash.com/photo-1470770841072-f978cf4d019e"},
 price:3800,
 location:"Alleppey",
 country:"India",
